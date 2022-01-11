@@ -1,5 +1,5 @@
 #main{
-    background-image: url(img/menu/menus-bg.jpg);
+    background-image: url(menus-bg.jpg);
     background-attachment :fixed;
     background-size: 100%;
 }
@@ -65,7 +65,7 @@
     margin-right: 15px 0 5px;
 }
 .col-right .content-title{
-    background-image: url(img/menu/order.bg-title.png);
+    background-image: url(order.bg-title.png);
     background-repeat: repeat-x;
     color: #fff;
     height: 30px;
