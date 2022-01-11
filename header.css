@@ -27,7 +27,7 @@ position: absolute;
     left: 45px;
 }
 .header-top {
-background-image: url(../img/header/bg.png);
+background-image: url(bg.png);
 background-repeat: repeat-x;
 height: 60px;
 padding: 10px 10px 0;
